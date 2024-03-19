@@ -1,0 +1,47 @@
+
+Intro
+Installation of react app
+Running the app 
+Folder structure 
+React Features (SPA , Virtual Dom , Reusability)
+
+Fundamentals 
+    Components 
+    JSX and babbel
+    Usage dynamic values 
+    Styles in react
+    Fragments
+    Formatting 
+    State managment
+    Side effects 
+    Conditional rendering
+    Displaying multiple data in react 
+    Multiple Components 
+    Props 
+
+Hooks 
+    useState()
+    useEffect()
+    useRef()
+    useContext()
+    useCallback()
+    useMemo()
+    useReducer()
+
+Advance
+
+    React routing 
+    Router parameters 
+    Public routing and protected routing 
+    Handling HTTP request (POST , GET , PUT , DELETE)
+    Handling 404 error page 
+    Higher order component 
+    Class components 
+    Life cycle methods 
+    Pure and Impure components 
+    Controlled and Uncontrolled components 
+
+
+Extra npm packages
+
+    will be added after usage in app 
